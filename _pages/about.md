@@ -6,8 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-======
 My name is Yuying Li. I am currently pursuing a PhD at Simon Fraser University and obtained my Master's degree from Hubei University. My research interests include knowledge retrieval augmented generation, large language model security, and multi-agent systems. [GitHub pages]([https://pages.github.com/](https://scholar.google.com/citations?hl=zh-CN&tzom=-480&user=xLh4bEoAAAAJ))
+======
+
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
